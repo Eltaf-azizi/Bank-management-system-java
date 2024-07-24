@@ -1,1 +1,1 @@
-<h1 >Bank Management System Java</h1>
+<h1 align="center">Bank Management System Java</h1>
