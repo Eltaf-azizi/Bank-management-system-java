@@ -1,21 +1,35 @@
-<h1 align="center">Bank Management System Java</h1>
-This project is a basic Library Management System built using Java. It allows users to enter student information and view available books in various departments such as Chemistry, Physics, and Biology.
+<h1 align="center">🏦 Bank Management System – Java Console Application</h1>
 
-## Features
-- Add and display student information
-- Display available books in Chemistry, Physics, and Biology departments
+<p align="center">
+  A simple console-based Bank Management System built using Java. This application allows basic banking operations such as customer registration, viewing account details, and managing department-specific services.
+</p>
 
-## Prerequisites
+---
+
+## 📋 Overview
+
+The **Bank Management System** is a basic Java application designed to simulate operations of a banking environment. It demonstrates key features like account creation, customer detail management, and viewing available services in departments like Savings, Loans, and Fixed Deposits. It's intended for educational and demonstration purposes to showcase Java OOPs, class-based design, and console I/O handling.
+
+---
+
+## 🚀 Features
+
+- Add and display customer information
+- Manage services in various departments:
+  - **Savings**
+  - **Loans**
+  - **Fixed Deposits**
+- Basic console interface
+- Modular Java class design
+
+---
+
+## 🛠️ Prerequisites
+
 - Java Development Kit (JDK) 22 or later
+- Command line interface or Java-supported IDE (e.g., IntelliJ, Eclipse, VS Code)
 
-## Installation
-1. Clone the repository or download the project files.
-2. Ensure you have JDK 22 or later installed on your system.
-3. Place the project files in an appropriate directory structure as specified below.
+---
 
-## Usage
-1. Open a terminal or command prompt.
-2. Navigate to the project directory.
-3. Compile the Java files:
-   ```bash
-   javac -d . LibraryManagementSystem/main.java LibraryManagementSystem/Module1.java LibraryManagementSystem/module2.java
+## 📦 Project Structure
+
