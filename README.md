@@ -31,5 +31,15 @@ The **Bank Management System** is a basic Java application designed to simulate 
 
 ---
 
-## 📦 Project Structure
+
+> 📌 **Note**: Class and package names are examples. Please adjust the filenames and structure according to your actual codebase.
+
+---
+
+## 🔧 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/bank-management-system.git
+   cd bank-management-system
 
