@@ -65,3 +65,29 @@ Copy
 Edit
 java BankManagementSystem.Main
 ```
+
+## 💻 Usage
+Once the application runs:
+
+ - Follow the on-screen instructions to:
+
+   - Enter new customer information
+
+   - View customer/account details
+
+   - Access services by department
+
+ - Use numeric input to navigate through the menu system.
+
+## 🤝 Contributing
+Contributions are welcome! If you'd like to enhance the system with features like:
+
+ - GUI (JavaFX or Swing)
+
+ - Persistent storage (File I/O or JDBC)
+
+ - Enhanced validation and exception handling
+
+ - Feel free to fork the repo and submit a pull request.
+
+
