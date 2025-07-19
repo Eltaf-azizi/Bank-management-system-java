@@ -42,4 +42,26 @@ The **Bank Management System** is a basic Java application designed to simulate 
    ```bash
    git clone https://github.com/yourusername/bank-management-system.git
    cd bank-management-system
+    ```
 
+#### 2. Ensure JDK 22 or higher is installed
+
+```bash
+Copy
+Edit
+java -version
+```
+#### 3. Compile the Java source files
+
+```bash
+Copy
+Edit
+javac -d . BankManagementSystem/Main.java BankManagementSystem/Customer.java BankManagementSystem/Department.java
+```
+#### 4. Run the application
+
+```bash
+Copy
+Edit
+java BankManagementSystem.Main
+```
